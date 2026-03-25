@@ -84,7 +84,7 @@ React.js | Tailwind CSS | Git | VS Code
 
 📧 Email: **rahul.skn123@gmail.com**
 
-💼 LinkedIn: *(Add your LinkedIn profile link here)*
+💼 LinkedIn: *https://www.linkedin.com/in/rk80523/*
 
 ---
 
