@@ -79,7 +79,7 @@
 
 📧 Email: **rahul.skn123@gmail.com**  
 
-💼 LinkedIn: *(Add your LinkedIn profile here)*  
+💼 LinkedIn: *(https://www.linkedin.com/in/rk80523/)*  
 
 ---
 ⭐ From **Rahul Kumar**
