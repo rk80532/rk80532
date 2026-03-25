@@ -1,69 +1,62 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">B.Tech Student | Java Developer | AI Enthusiast</h3>
+<h3 align="center">B.Tech Student | MERN Developer | Frontend Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Frontend+Developer;AI+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 👨‍💻 About Me :
+
+💬 Ask me about  
+- Java  ## 👨‍💻 About Me
 
 🔭 I’m currently working on  
 - **DoctGPT – AI Doctor Assistant Website**  
-- **Chess AI Game** using Java, Minimax & Alpha-Beta Pruning  
+- **Chess AI Game using Minimax Algorithm**
 
 🤝 I’m looking to collaborate on  
-- AI / Machine Learning projects  
-- Open Source Web Development projects  
-
-🫱🏻‍🫲🏼 I’m looking for help with  
-- AI model integration in web applications  
-- Backend development for scalable AI systems  
+- MERN Stack Projects  
+- Open Source Web Development
 
 🌱 I’m currently learning  
+- MERN Stack Development  
 - Artificial Intelligence  
-- Data Structures and Algorithms  
-- React.js and Tailwind CSS  
+- Data Structures and Algorithms
 
 💬 Ask me about  
-- Java, C, DSA  
-- Web Development  
-- Chess AI algorithms  
+- MERN Stack  
+- Frontend Development  
+- JavaScript, React.js, Tailwind CSS
 
 ⚡ Fun fact  
-- I enjoy building **AI-powered applications and solving coding problems**
-
----
-
+- I love building modern web applications and AI-powered tools.
 ## 🚀 Tech Stack
 
-**Programming Languages**
+### Languages
+Java | C | JavaScript | HTML | CSS
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web Development**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Frameworks & Tools
+React.js | Tailwind CSS | Git | VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-♟ **Chess AI Game**  
-- Java based chess game with **Minimax Algorithm & Alpha-Beta Pruning**  
-- AI opponent and chess logic implemented
+### ♟ Chess AI Game
+- Java based chess engine  
+- Implemented **Minimax Algorithm & Alpha-Beta Pruning**
 
-🩺 **DoctGPT – AI Doctor Assistant**  
+### 🩺 DoctGPT – AI Doctor Assistant
 - AI powered health assistant  
 - Suggests medicines and explains health problems  
-- Built using **React + AI APIs**
+- Built with **React + AI APIs**
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=rk80532)
 
 ---
 
@@ -75,11 +68,24 @@
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-📧 Email: **rahul.skn123@gmail.com**  
-
-💼 LinkedIn: *(https://www.linkedin.com/in/rk80523/)*  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk80532&theme=tokyonight)
 
 ---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rk80532&theme=tokyo-night)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **rahul.skn123@gmail.com**
+
+💼 LinkedIn: *(Add your LinkedIn profile link here)*
+
+---
+
 ⭐ From **Rahul Kumar**
