@@ -69,13 +69,12 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rk80532)
+![Trophy](https://github-profile-trophy.vercel.app/?username=rk80532&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk80532&show_icons=true&theme=tokyonight)
 
@@ -83,9 +82,9 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk80532&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rk80532&theme=tokyonight)
 
 ---
 
