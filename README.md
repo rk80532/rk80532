@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rahul%20Kumar&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rahul%20Kumar&fontSize=50&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">B.Tech Student | MERN Developer | Frontend Developer</h3>
+<h3 align="center">MERN Stack Developer | Frontend Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Frontend+Developer;AI+Enthusiast;Open+Source+Learner&center=true&width=500&height=45">
@@ -15,101 +15,99 @@
 # 👨‍💻 About Me
 
 🔭 I’m currently working on  
-- **DoctGPT – AI Doctor Assistant Website**  
-- **Chess AI Game using Minimax Algorithm**
+• **DoctGPT – AI Doctor Assistant Website**  
+• **Chess AI Game using Minimax Algorithm**
 
 🤝 I’m looking to collaborate on  
-- MERN Stack Projects  
-- Open Source Web Development  
+• MERN Stack Projects  
+• Open Source Web Development  
 
 🌱 I’m currently learning  
-- MERN Stack Development  
-- Artificial Intelligence  
-- Data Structures and Algorithms  
+• Artificial Intelligence  
+• Data Structures and Algorithms  
+• Advanced MERN Development  
 
 💬 Ask me about  
-- MERN Stack  
-- Frontend Development  
-- JavaScript, React.js, Tailwind CSS  
+• MERN Stack  
+• React.js  
+• JavaScript  
+• Tailwind CSS  
 
 ⚡ Fun fact  
-- I enjoy building **AI powered web applications**.
+• I love building **AI powered web applications**
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,c,git,vscode"/>
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</p>
 
 ---
 
 # 📌 Featured Projects
 
 ### ♟ Chess AI Game
-- Java based chess engine  
-- Implemented **Minimax Algorithm & Alpha-Beta Pruning**
+Java-based chess engine implementing  
+**Minimax Algorithm & Alpha-Beta Pruning**
 
 ### 🩺 DoctGPT – AI Doctor Assistant
-- AI powered health assistant  
-- Suggests medicines and explains health problems  
-- Built using **React + AI APIs**
+AI powered health assistant that suggests  
+medicines and explains symptoms.
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=rk80532&theme=tokyonight&no-frame=true&row=1&column=6)
+<p align="center">
 
----
-## 📊 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rk80532&show_icons=true&theme=tokyonight"/>
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk80532&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk80532&layout=compact&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rk80532&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rk80532&theme=tokyonight)
+</p>
 
 ---
 
-# 📈 Activity Graph
+# 🔥 GitHub Streak
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rk80532&theme=tokyo-night)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=rk80532&theme=tokyonight"/>
+</p>
 
 ---
 
-# 👀 Profile Views
+# 📈 Contribution Graph
 
-![Profile Views](https://komarev.com/ghpvc/?username=rk80532&color=blue)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rk80532&theme=tokyo-night"/>
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: **rahul.skn123@gmail.com**  
+<p align="center">
 
-💼 LinkedIn: *https://www.linkedin.com/in/rk80523/*  
+<a href="https://www.linkedin.com/in/rk80523/">
+<img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rahul.skn123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ From **Rahul Kumar**
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/rk80532/rk80532/output/github-contribution-grid-snake.svg"/>
 </p>
