@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Animated Coding Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rahul%20Kumar&fontSize=50&fontColor=ffffff"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
@@ -15,8 +15,8 @@
 # 👨‍💻 About Me
 
 🔭 I’m currently working on  
-• **DoctGPT – AI Doctor Assistant Website**  
-• **Chess AI Game using Minimax Algorithm**
+• DoctGPT – AI Doctor Assistant Website  
+• Chess AI Game using Minimax Algorithm  
 
 🤝 I’m looking to collaborate on  
 • MERN Stack Projects  
@@ -34,7 +34,7 @@
 • Tailwind CSS  
 
 ⚡ Fun fact  
-• I love building **AI powered web applications**
+• I love building AI powered web applications
 
 ---
 
@@ -48,15 +48,11 @@
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### ♟ Chess AI Game
-Java-based chess engine implementing  
-**Minimax Algorithm & Alpha-Beta Pruning**
-
-### 🩺 DoctGPT – AI Doctor Assistant
-AI powered health assistant that suggests  
-medicines and explains symptoms.
+<a href="https://github.com/rk80532/Chess-Ai-game">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rk80532&repo=Chess-Ai-game&theme=tokyonight" />
+</a>
 
 ---
 
@@ -86,6 +82,24 @@ medicines and explains symptoms.
 
 ---
 
+# 📊 GitHub Activity Cards
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rk80532&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rk80532&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rk80532&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rk80532&theme=tokyonight)
+
+---
+
+# ✨ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
@@ -102,12 +116,7 @@ medicines and explains symptoms.
 
 ---
 
+<!-- Footer Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rk80532/rk80532/output/github-contribution-grid-snake.svg"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
