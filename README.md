@@ -1,6 +1,6 @@
 <!-- Animated Coding Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Rahul%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff512f,100:dd2476&height=250&section=header&text=Rahul%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Developer%20|%20Frontend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
