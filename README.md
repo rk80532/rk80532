@@ -1,6 +1,6 @@
 <!-- Animated Coding Banner -->
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:00c6ff,100:0072ff&height=250&section=header&text=Rahul%20Kumar&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20|%20MERN%20Stack&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
